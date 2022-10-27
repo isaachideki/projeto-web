@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conteudo>
+   <postagem codigo="150">
+    <titulo> noticia 1 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>hulk.jpg</imagem>
+     </postagem>
+      <postagem codigo="151">
+    <titulo> noticia 1 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>mm.png</imagem>
+     </postagem>
+      <postagem codigo="152">
+    <titulo> noticia 1 </titulo>
+    <corpo>  
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, 
+    quis. Possimus, deserunt similique. At enim fuga ex ducimus hic labore harum et vel odio quibusdam,
+     dolor amet animi cum assumenda
+     </corpo>
+     <imagem>mm.png</imagem>
+     </postagem>
+   </conteudo>
+    
